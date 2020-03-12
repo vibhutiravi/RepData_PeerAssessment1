@@ -1,9 +1,10 @@
 ---
 title: "Reproducible Research: Course Project 1"
 output: 
-  html_document: 
-    keep_md: yes
+html_document: 
+keep_md: yes
 ---
+<br>
 
 ###Loading and preprocessing the data
 *Show any code that is needed to*  
