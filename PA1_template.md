@@ -1,9 +1,4 @@
----
-title: "Reproducible Research: Course Project 1"
-output: 
-html_document: 
-keep_md: yes
----
+# Reproducible Research Course Project 1
 <br>
 
 ###Loading and preprocessing the data
